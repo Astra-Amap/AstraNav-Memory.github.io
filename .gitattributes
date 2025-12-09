@@ -1,1 +1,2 @@
 videos/Demo_videos.mp4 filter=lfs diff=lfs merge=lfs -text
+videos/Demo_video_30fps.mp4 filter=lfs diff=lfs merge=lfs -text
